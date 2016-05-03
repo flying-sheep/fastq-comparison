@@ -1,0 +1,7 @@
+[package]
+name = "fastq-comparison"
+version = "0.1.0"
+authors = ["Phil Schaf <flying-sheep@web.de>"]
+
+[dependencies]
+'quick-error' = '1.0.0'
